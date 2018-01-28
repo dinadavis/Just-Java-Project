@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">JustJava</string>
+    <!--Hint text for the edit name field [CHAR LIMIT=20] -->
+    <string name="enter_name">ENTER NAME</string>
+    <!--Header text for the choosing quantity [CHAR LIMIT=20] -->
+    <string name="quantity">Quantity</string>
+    <!--Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+    <!--Text for choosing whipped cream topping [CHAR LIMIT=20] -->
+    <string name="whipped_cream">Whipped Cream</string>
+    <!--Text for choosing cinnamon topping [CHAR LIMIT=20] -->
+    <string name="cinnamon">Cinnamon</string>
+    <!--Header text for the order summary section [CHAR LIMIT=20] -->
+    <string name="order_summary">ORDER SUMMARY</string>
+    <!--Button text for placing an order [CHAR LIMIT=20] -->
+    <string name="order">ORDER</string>
+
+
+    <!--Toast for choosing whipped cream [CHAR LIMIT=NONE] -->
+    <string name="cost_one_dollar">That will cost one dollar</string>
+    <!--Toast for choosing cinnamon [CHAR LIMIT=NONE] -->
+    <string name="cost_two_dollars">That will cost two dollars</string>
+    <!--Email subject [CHAR LIMIT=NONE] -->
+    <string name="email_subject">Just Java order for </string>
+    <!--Name to be entered in the order summary [CHAR LIMIT=NONE] -->
+    <string name="order_summary_name">Name: </string>
+    <!--To mark whether whipped cream was ordered in the order summary [CHAR LIMIT=NONE] -->
+    <string name="order_summary_WC">Add Whipped Cream? </string>
+    <!--To mark whether cinnamon was ordered in the order summary [CHAR LIMIT=NONE] -->
+    <string name="order_summary_C">Add Cinnamon? </string>
+    <!--List quantity ordered for the order summary [CHAR LIMIT=NONE] -->
+    <string name="order_summary_quantity">Quantity: </string>
+    <!--List total cost for the order summary [CHAR LIMIT=NONE] -->
+    <string name="order_summary_total">Total: $</string>
+    <!--Thank you message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank You!</string>
+
+</resources>

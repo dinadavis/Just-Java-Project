@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">רק קפה</string>
+    <string name="toppings">תוספות</string>
+    <string name="enter_name">הקלד שם</string>
+    <string name="whipped_cream">שמנת מתוקה</string>
+    <string name="cinnamon">קינמון</string>
+    <string name="order_summary">סיכום הזמנה</string>
+    <string name="order">הזמן</string>
+    <string name="quantity">כמות</string>
+    <string name="cost_one_dollar">תוספת זו יעלה לך דולר אחד</string>
+    <string name="cost_two_dollars">תוספת זו יעלה לך שתי דולר</string>
+    <string name="email_subject">הזמנה מרק קפה ל</string>
+    <string name="order_summary_name">שם:</string>
+    <string name="order_summary_WC">הוספת שמנת?</string>
+    <string name="thank_you">תודה!</string>
+    <string name="order_summary_C">הוספת קינמון?</string>
+    <string name="order_summary_quantity">כמות:</string>
+    <string name="order_summary_total">עלות: $</string>
+</resources>
